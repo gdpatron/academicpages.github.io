@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gabriel David Patrón"
   avatar           : "profile.png"
-  bio              : "PhD candidate"
+  bio              : "PhD candidate, University of Waterloo"
   location         : "Torono, Ontario"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=r1Rw2nQAAAAJ&hl=en"
@@ -94,17 +94,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
