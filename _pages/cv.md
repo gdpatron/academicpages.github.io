@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV <a href="dgpatron.github.io/folder/document.pdf" target="_blank">PDF.</a>
+Download my CV <a href="gdpatron.github.io/folder/document.pdf" target="CVv2">PDF.</a>
