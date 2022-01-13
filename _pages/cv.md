@@ -9,4 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV <a href="gdpatron.github.io/" target="CVv2.pdf">here.</a>
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= gdpatron.github.io/CVv2.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
