@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
- here
+ <object data="gdpatron.github.io/CVv2..pdf" width="1000" height="1000" type='application/pdf'></object>
