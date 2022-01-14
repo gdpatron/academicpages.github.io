@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ gdpatron.github.io }}/files/CVv2.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/CVv2.pdf" width="600" height="700" type='application/pdf'>
