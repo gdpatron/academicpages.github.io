@@ -15,7 +15,7 @@ PhD student interested in applying economic incentives and process systems engin
 - Economic MPC (EMPC)
 - Moving horizon estimation (MHE)
  
- To promote the update of green technologies:
+ To promote the uptake of green technologies:
  
  - Post-combustion carbon capture (PCC)
  - Chemical looping combustion (CLC)
