@@ -7,7 +7,7 @@ excerpt: '
 - Comprehensive economic function is developed to incentivize cost reduction.
 - Proposed scheme is applied to a pilot-scale MEA-based absorber section case study.
 - Case study covers diurnal variation, cofiring, and price change scenarios.
--The scheme is found to provide consistently improved steady-state process economics.'
+- The scheme is found to provide consistently improved steady-state process economics.'
 
 date: 2022-02-15
 venue: 'Applied Energy'
