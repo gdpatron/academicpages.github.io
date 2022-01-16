@@ -2,8 +2,11 @@
 title: "An integrated real-time optimization, control, and estimation scheme for post-combustion CO2 capture"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '
-- Economic operating scheme is proposed for post-combustion carbon capture plants. - Comprehensive economic function is developed to incentivize cost reduction. -Proposed scheme is applied to a pilot-scale MEA-based absorber section case study. - Case study covers diurnal variation, cofiring, and price change scenarios. - The scheme is found to provide consistently improved steady-state process economics.'
+excerpt: '- Economic operating scheme is proposed for post-combustion carbon capture plants. 
+- Comprehensive economic function is developed to incentivize cost reduction. 
+- Proposed scheme is applied to a pilot-scale MEA-based absorber section case study. 
+- Case study covers diurnal variation, cofiring, and price change scenarios. 
+- The scheme is found to provide consistently improved steady-state process economics.'
 
 date: 2022-02-15
 venue: 'Applied Energy'
@@ -14,4 +17,4 @@ This study presents a novel operational scheme for post-combustion CO2 capture (
 
 [Download paper here](https://doi.org/10.1016/j.apenergy.2021.118302)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Patrón GD, Ricardez-Sandoval L. An integrated real-time optimization, control, and estimation scheme for post-combustion CO2 capture. Appl. Energy 308, page.
