@@ -8,7 +8,6 @@ excerpt:
 - Proposed scheme is applied to a pilot-scale MEA-based absorber section case study. <br/> 
 - Case study covers diurnal variation, cofiring, and price change scenarios. <br/> 
 - The scheme is found to provide consistently improved steady-state process economics. '
-
 date: 2022-02-15
 venue: 'Applied Energy'
 paperurl: 'https://doi.org/10.1016/j.apenergy.2021.118302'
