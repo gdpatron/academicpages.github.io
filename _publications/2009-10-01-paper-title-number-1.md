@@ -4,12 +4,10 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ' 
 - Economic operating scheme is proposed for post-combustion carbon capture plants. <br/>
-- 
-* Comprehensive economic function is developed to incentivize cost reduction. 
-* <br/>
-* Proposed scheme is applied to a pilot-scale MEA-based absorber section case study.
-* Case study covers diurnal variation, cofiring, and price change scenarios. 
-* The scheme is found to provide consistently improved steady-state process economics.'
+- Comprehensive economic function is developed to incentivize cost reduction. 
+- Proposed scheme is applied to a pilot-scale MEA-based absorber section case study.
+- Case study covers diurnal variation, cofiring, and price change scenarios. 
+- The scheme is found to provide consistently improved steady-state process economics.'
 date: 2022-02-15
 venue: 'Applied Energy'
 paperurl: 'https://doi.org/10.1016/j.apenergy.2021.118302'
