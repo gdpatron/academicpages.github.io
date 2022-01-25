@@ -2,7 +2,7 @@
 title: "Final year design project supervision"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/FYDP
 venue: "University of Waterloo, Department of Chemical Engineering"
 date: 2021-01-01
 location: "Waterloo, CA"
