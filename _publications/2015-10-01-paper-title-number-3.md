@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Optimization and Nonlinear Model Predictive Control for a Post-Combustion Carbon Capture Absorber"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/IFAC-2020
 excerpt: '
 • Nonlinear model predictive controller and Kalman filter implemented for post-combuistion capture absorber.<br/>
 • Economic optimization considers carbon tax, electrical costs, and MEA degradation costs.<br/>
