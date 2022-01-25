@@ -3,7 +3,7 @@ title: "Final year design project supervision"
 collection: teaching
 type: "Undergraduate"
 venue: "University of Waterloo, Department of Chemical Engineering"
-date: 2020–2021
+date: 2020/2021
 location: "Waterloo, CA"
 ---
 
