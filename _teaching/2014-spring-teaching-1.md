@@ -2,8 +2,9 @@
 title: "Teaching assistantship"
 collection: teaching
 type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Waterloo, Department of Chemical Engineering"
-date: 
+date: 2020
 location: "Waterloo, CA"
 ---
 - TA for CHE420: Introduction to Process Control, taught by Professor Hector Budman.<br/>
