@@ -3,9 +3,9 @@ title: "Real-Time Optimization and Nonlinear Model Predictive Control for a Post
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '
-• Nonlinear model predictive controller and Kalman filter implemented for post-combuistion capture absorber.
-• Economic optimization considers carbon tax, electrical costs, and MEA degradation costs.
-• Disturbances in inlet flue gas flowrate and carbon tax considered for short simulation times.
+• Nonlinear model predictive controller and Kalman filter implemented for post-combuistion capture absorber.<br/>
+• Economic optimization considers carbon tax, electrical costs, and MEA degradation costs.<br/>
+• Disturbances in inlet flue gas flowrate and carbon tax considered for short simulation times.<br/>
 • Significant economic benefit observed when using scheme versus a constant operatin point.'
 date: 2020-01-01
 venue: 'IFAC-PapersOnLine'
