@@ -1,7 +1,7 @@
 ---
 title: "A robust nonlinear model predictive controller for a post-combustion CO2 capture absorber unit"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Fuel-2020
 excerpt: '
 • A Model Predictive Controller for a Post-combustion CO2 absorber unit is presented. <br/>
 • A robust control approach is used to deal with parametric and upstream uncertainty. <br/>
