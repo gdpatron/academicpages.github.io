@@ -2,6 +2,7 @@
 title: "Final year design project supervision"
 collection: teaching
 type: "Undergraduate"
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Waterloo, Department of Chemical Engineering"
 date: 2021
 location: "Waterloo, CA"
