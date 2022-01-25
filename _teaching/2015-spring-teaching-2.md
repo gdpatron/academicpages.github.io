@@ -7,6 +7,12 @@ date: 2020, 2021
 location: "Waterloo, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2021: Design of a Chemical Looping Combustion Model for Reducing Carbon Footprint
+
+https://www.eng.uwaterloo.ca/2021-capstone-design/chemical/participants-3/
+
+2020: Modelling and Optimization of Chemical Looping Combustion
+
+https://uwaterloo.ca/capstone-design/2020-chemical-engineering-capstone-design-projects
 
 
