@@ -6,7 +6,7 @@ excerpt: '
 • Nonlinear model predictive controller and Kalman filter implemented for post-combuistion capture absorber.<br/>
 • Economic optimization considers carbon tax, electrical costs, and MEA degradation costs.<br/>
 • Disturbances in inlet flue gas flowrate and carbon tax considered for short simulation times.<br/>
-• Significant economic benefit observed when using scheme versus a constant operatin point.'
+• Significant economic benefit observed when using proposed scheme versus a constant operating point.'
 date: 2020-01-01
 venue: 'IFAC-PapersOnLine'
 paperurl: 'https://doi.org/10.1016/j.ifacol.2020.12.639' 
