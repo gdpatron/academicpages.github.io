@@ -17,6 +17,4 @@ PhD student interested in applying economic incentives and process systems engin
  To promote the uptake of green technologies:
  - Post-combustion carbon capture (PCC)
  - Chemical looping combustion (CLC)
- - Oxy-fuel combustion
- - Methanol production
- - Direct air capture
+ - Recirculating aquaculture systems (RAS)
